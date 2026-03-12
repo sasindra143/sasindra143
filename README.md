@@ -102,6 +102,8 @@ Freelance web development project for a real client platform.
 
 ---
 
+<h2 style="color:#FF4B4B;">🐍 Contribution Snake Animation</h2><p align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/></p>---
+
 ### 📫 Contact
 
 Email: **sasindragandla@gmail.com**  
