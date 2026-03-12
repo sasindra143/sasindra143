@@ -9,12 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-• 🎓 B.Tech Graduate – 2025  
-• 💻 Full Stack Web Developer  
-• 🚀 Currently working as a **Freelancer**  
-• 🌐 Working on a **client project – PR Skillverse**  
-• 📚 Learning **Java, React, Backend APIs & DSA**  
-• 🎯 Looking for **real-time industry experience**
+I am a **B.Tech Graduate (2025)** and a passionate **Full Stack Web Developer** focused on building modern, responsive, and scalable web applications. Currently, I am working as a **freelance developer**, where I am developing real-world client projects such as **PR Skillverse**. I enjoy working with technologies like **Java, React, and Backend APIs**, while continuously improving my knowledge in **Data Structures and Algorithms (DSA)**. I am actively seeking opportunities to gain **real-time industry experience** and contribute to impactful software development projects.
 
 ---
 
@@ -34,20 +29,81 @@
 
 ### ⚡ Tech Stack
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
-<img src="https://skillicons.dev/icons?i=js"/>
-<img src="https://skillicons.dev/icons?i=react"/>
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-<img src="https://skillicons.dev/icons?i=java"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://skillicons.dev/icons?i=vscode"/>
+<table width="100%" style="border-collapse:separate; border-spacing:20px;">
+
+<tr>
+
+<td width="25%" valign="top">
+
+<h3 align="center">🎨 Frontend</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br><br>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><br><br>
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow"/><br><br>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 </p>
+
+</td>
+
+<td width="25%" valign="top">
+
+<h3 align="center">⚙ Backend</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white"/><br><br>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+</p>
+
+</td>
+
+<td width="25%" valign="top">
+
+<h3 align="center">🗄 Database</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</p>
+
+</td>
+
+<td width="25%" valign="top">
+
+<h3 align="center">🛠 Tools</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br><br>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><br><br>
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/><br><br>
+
+<img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/><br><br>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
